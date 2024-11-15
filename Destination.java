@@ -1,3 +1,3 @@
 public enum Destination {
-    VENUS, MARS, EUROPA, PLUTO
+    Venus, Mars, Europa, Pluto
 }
